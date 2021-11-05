@@ -9,7 +9,7 @@
 
 - 💻 My job consists in developing and mantaining our DMS and ERP systems, mostly creating new reports and features. The systems are quite old so my tasks also include a lot of code refactoring and maintenance, along with optimization and problem solving.
 
-- 💾 Game Development: I've been involved since 2020 as **Senior Developer** in the development of a GTA V Roleplay public server which happens to be one of the most populars in Argentina. Through Cfx.re's FiveM application I've used the vRP, ESX and QBCore frameworks using **Lua**. This helped me with my frontend development skills, because I had to create graphical user interfaces using **HTML**, **CSS** and **JS**.
+- 💾 Game Development: I've been involved since 2020 as **Senior Lead Developer** in the development of a GTA V Roleplay public server which happens to be one of the most populars in Argentina. Through Cfx.re's FiveM application I've used the vRP, ESX and QBCore frameworks using **Lua**. This helped me with my frontend development skills, because I had to create graphical user interfaces using **HTML**, **CSS** and **JS**.
 
 - 🤓 I’m currently learning **Javascript for NodeJS backend development**
 
