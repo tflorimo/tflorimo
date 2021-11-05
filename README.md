@@ -6,21 +6,22 @@
 </div>
 
 - 🧉 I work as a Ssr. Analyst Developer for a company in Buenos Aires, Argentina 
-- My job consists in developing and mantaining our DMS and ERP systems
+
+- 💻 My job consists in developing and mantaining our DMS and ERP systems, mostly creating new reports and features. The systems are quite old so my tasks also include a lot of code refactoring and maintenance, along with optimization and problem solving.
 
 - 🤓 I’m currently learning **Javascript for NodeJS backend development**
 
-- 📝 This profile overview was created using this tool [click me!](https://github.com/rahuldkjain/github-profile-readme-generator)
+- 📝 This profile overview was created using this tool --> [✨click me!✨](https://github.com/rahuldkjain/github-profile-readme-generator)
 
-- ⏩ I wish to learn **Vue.js and React.js**
+- ⏩ I wish to learn **React.js**, so I can learn React Native to develop mobile applications. I look at frontend developers who create such amazing web apps and I want to be a part of that huge, "little" world.
 
-- ✅ Strengths I consider that my problem solving abilities, my patience and my understanding of MySQL databases are the most important skills that I have. And my love for coding, of course ❤️
+- ✅ Strengths: I consider that my problem solving abilities, my patience and my understanding of MySQL databases are the most important skills that I have. And my love for coding, of course ❤️
 
-- ⚠️ Weaknesses :It is my personal belief that we should all learn to accept our weaknesses. Frontend development and creation of complex algorithms are my weaknesses. That and OOP programming.
+- ⚠️ Weaknesses: It is my personal belief that we should all learn to accept our weaknesses. Frontend development, OOP programming, and creation of complex algorithms are my weaknesses.
 
-- 💼 This is my LinkedIn profile [https://www.linkedin.com/in/tomas-florimo/](https://www.linkedin.com/in/tomas-florimo/)
+- 💼 This is my LinkedIn profile [click me!🧑‍💻](https://www.linkedin.com/in/tomas-florimo/)
 
-- 💁‍♂️ Random facts about me: My first programming class was in 2015, I didn't understand a single thing about it so I ditched programming for 2 or 3 years. I suck at OOP programming, but hey, don't we all?
+- 💁‍♂️ Random fact about me: My first programming class was in 2015, I didn't understand a single thing about it so I ditched programming for 2 or 3 years. I suck at OOP programming, but hey, don't we all?
 
 
 <h3 align="center">Languages and Tools I mostly use:</h3>
