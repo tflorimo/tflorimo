@@ -1,15 +1,16 @@
 <h1 align="center">Hello there, I am Tomás!</h1>
 <h3 align="center">Backend Developer since 2019</h3>
 
-<img align="center" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
-
+<div align="center">
+    <img style="text-align:center;" align="center" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
+</div>
 
 - 🧉 I work as a Ssr. Analyst Developer for a company in Buenos Aires, Argentina 
 - My job consists in developing and mantaining our DMS and ERP systems
 
 - 🤓 I’m currently learning **Javascript for NodeJS backend development**
 
-- 📝 This profile overview was created using this tool [https://github.com/rahuldkjain/github-profile-readme-generator](asdasd)
+- 📝 This profile overview was created using this tool [https://github.com/rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
 - ⏩ I wish to learn **Vue.js and React.js**
 
