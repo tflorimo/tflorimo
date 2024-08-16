@@ -5,11 +5,12 @@
     <img style="text-align:center;" align="center" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
 </div>
 
-- 🧉 I work remotely as a Ssr. PHP Developer for a company in Buenos Aires, Argentina 
+- 🧉 I am a Lead Programmer based in Buenos Aires, Argentina 
 
-- 💻 My job consists in developing new functionalities for an OSS, using PHP and Laravel. 
+- 💻 My job consists in developing PHP web applications and performing code reviews, as well as deploying code.
 
-- 💾 Game Development: I've been involved since 2020 as **Senior Lead Developer** in the development of a GTA V Roleplay public server which happens to be one of the most populars in Argentina. Through Cfx.re's FiveM application I've used the vRP, ESX and QBCore frameworks using **Lua**. This helped me with my frontend development skills, because I had to create graphical user interfaces using **HTML**, **CSS** and **JS**.
+- 💾 Game Development: I've been involved from 2020 to 2024 as **Senior Lead Developer** in the development of a GTA V Roleplay public roleplaying server which happened to be one of the most populars in Argentina.
+- Through Cfx.re's FiveM application I've used the vRP, ESX and QBCore frameworks using **Lua**. This helped me with my frontend development skills, because I had to create graphical user interfaces using **HTML**, **CSS** and **JS**.
 
 - 📝 This profile overview was created using this tool --> [✨click me!✨](https://github.com/rahuldkjain/github-profile-readme-generator)
 <h3 align="center">Languages and Tools I mostly use:</h3>
